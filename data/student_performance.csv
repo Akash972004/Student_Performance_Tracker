@@ -1,0 +1,16 @@
+ID,Attendance,Study_Hours,Previous_Grades,Participation,Assignments,Health,Family_Support,Internet, Sleep_Hours,Extra_Curricular,Target
+1,92,4,85,8,90,4,5,Yes,7,Yes,Pass
+2,75,2,70,5,80,3,3,No,6,No,Pass
+3,60,1,50,3,60,2,2,No,5,No,Fail
+4,88,3,80,7,85,4,4,Yes,8,Yes,Pass
+5,50,1,40,2,55,2,1,No,4,No,Fail
+6,95,5,90,9,95,5,5,Yes,7,Yes,Pass
+7,68,2,60,4,70,3,3,Yes,6,No,Fail
+8,85,3,75,6,80,4,4,Yes,7,Yes,Pass
+9,55,1,45,3,50,2,2,No,5,No,Fail
+10,90,4,88,9,92,5,5,Yes,8,Yes,Pass
+11,70,3,65,5,75,3,3,Yes,6,Yes,Pass
+12,62,2,55,4,65,3,2,No,5,No,Fail
+13,80,3,72,6,78,4,4,Yes,7,Yes,Pass
+14,45,1,35,2,50,2,1,No,4,No,Fail
+15,85,4,82,7,85,4,5,Yes,7,Yes,Pass
