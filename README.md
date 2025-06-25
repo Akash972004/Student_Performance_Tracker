@@ -32,4 +32,4 @@ StudentPerformanceTracker/
 pip install pandas numpy scikit-learn streamlit
 
 cd src
-streamlit run student_performance_id_app.py
+streamlit run student_performance_app.py
